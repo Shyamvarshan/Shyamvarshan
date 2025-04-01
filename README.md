@@ -8,8 +8,8 @@
 <p align="center">Atatus is a next-gen observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit our website for the full documentation, tutorials, and guide.</p>
   
 <h3 align="center">
-  <a href="https://www.atatus.com/"><b>Website</b></a>
-  <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a> &bull;
+  <a href="https://www.atatus.com/"><b>Website</b></a> &bull;
+  <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a>
 </h3>
 
 ## Features
