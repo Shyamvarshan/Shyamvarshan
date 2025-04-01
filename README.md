@@ -38,7 +38,7 @@ Simplify your log monitoring to effortlessly track and analyze events, enabling 
 
 You can also create charts on your logs and monitor them with customized dashboards. Read [more](https://www.atatus.com/logs-monitoring/features).
 
-![logs-management-cover](https://www.atatus.com/images/product/logs/pages/logs_monitoring.webp)
+![logs-management-cover](https://www.atatus.com/images/press-screenshots/logs.png)
 
 
 ### Database Monitoring
@@ -47,27 +47,25 @@ Actively track query execution times, resource utilization, and transaction thro
 
 Read [more](https://www.atatus.com/database-monitoring/feature).
 
-![distributed-tracing-cover](https://www.atatus.com/images/product/database/pages/database-header.webp)
+![distributed-tracing-cover](https://www.atatus.com/images/press-screenshots/database.png)
 
 
 
-### Metrics
+### Kubernetes Monitoring
 
-Unlock complete visibility into your system's health with real-time metrics, proactive alerts, and actionable insights—empowering your team to stay ahead of performance issues and drive optimal efficiency.
+Gain comprehensive insights into your Kubernetes cluster, highlighting strategies to optimize resource utilization across workloads, leading to improved management and efficiency of your Kubernetes setup.
 
-Read [more](http://atatus.com/metrics/features).
+Read [more](https://www.atatus.com/kubernetes-monitoring/features).
 
-![metrics-n-dashboards-cover](https://www.atatus.com/images/product/metrics/metrics-header.webp)
+![Kubernetes Monitoring-cover](https://www.atatus.com/images/press-screenshots/kubernetes.png)
 
-### Alerts
+### Infrastructure monitoring
 
-Use alerts in SigNoz to get notified when anything unusual happens in your application. You can set alerts on any type of telemetry signal (logs, metrics, traces), create thresholds and set up a notification channel to get notified. Advanced features like alert history and anomaly detection can help you create smarter alerts.
+Get complete visibility of your infrastructure to diagnose and resolve performance issues that impact your business. Make better business decisions by correlating application metrics, logs and traces to troubleshoot problems faster.
 
-Alerts in Atatus help you identify issues proactively so that you can address them before they reach your customers.
+Read [more](https://www.atatus.com/infrastructure-monitoring/features).
 
-Read [more](https://www.atatus.com/integrations).
-
-![alerts-cover](https://www.atatus.com/images/integrations/integrations-hero.svg)
+![Infrastructure monitoring-cover](https://www.atatus.com/images/press-screenshots/infra.png)
 
 ### Serverless Monitoring
 
