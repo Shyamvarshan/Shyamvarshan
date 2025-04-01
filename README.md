@@ -43,24 +43,19 @@ Actively track query execution times, resource utilization, and transaction thro
 
 ### Kubernetes Monitoring
 
-Gain comprehensive insights into your Kubernetes cluster, highlighting strategies to optimize resource utilization across workloads, leading to improved management and efficiency of your Kubernetes setup.
-
-[Read more](https://www.atatus.com/kubernetes-monitoring/features).
+Gain comprehensive insights into your Kubernetes cluster, highlighting strategies to optimize resource utilization across workloads, leading to improved management and efficiency of your Kubernetes setup.[Read more](https://www.atatus.com/kubernetes-monitoring/features).
 
 ![Kubernetes Monitoring-cover](https://www.atatus.com/images/press-screenshots/kubernetes.png)
 
 ### Infrastructure monitoring
 
-Get complete visibility of your infrastructure to diagnose and resolve performance issues that impact your business. Make better business decisions by correlating application metrics, logs and traces to troubleshoot problems faster.
-
-[Read more](https://www.atatus.com/infrastructure-monitoring/features).
+Get complete visibility of your infrastructure to diagnose and resolve performance issues that impact your business. Make better business decisions by correlating application metrics, logs and traces to troubleshoot problems faster.[Read more](https://www.atatus.com/infrastructure-monitoring/features).
 
 ![Infrastructure monitoring-cover](https://www.atatus.com/images/press-screenshots/infra.png)
 
 ### Serverless Monitoring
 
 Unlock deep insights and proactive monitoring for your serverless architecture. Enhance application reliability, performance, and security with real-time observability.
-
 [Read more](https://www.atatus.com/serverless-monitoring/features).
 
 ![exceptions-cover](https://www.atatus.com/images/press-screenshots/serverless.png)
@@ -90,9 +85,9 @@ Atatus is a All-in-One Observability Platform. Here are a few reasons why you sh
 
 [Get started for free](https://www.atatus.com/signup)
   
-### Deploy in Kubernetes using Helm(self-hosted)
+### On-Premise Deployment & Contact Us
 
-Please follow the steps listed [here](https://docs.atatus.com/docs/kubernetes-monitoring/installation/helm-chart.html) to install using helm charts
+Need complete control over your observability stack? Atatus offers on-premise deployment, ensuring data security, compliance, and seamless integration within your infrastructure.
 
-We also offer managed services in your infra. Check our [pricing plans](https://www.atatus.com/pricing) for all details.
+Get a personalized demo to see how Atatus can fit your needs. [Contact us]https://www.atatus.com/contact) or [schedule a demo](https://www.atatus.com/request-demo)
 
