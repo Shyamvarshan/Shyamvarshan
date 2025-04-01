@@ -73,7 +73,7 @@ Unlock deep insights and proactive monitoring for your serverless architecture. 
 
 Read [more](https://www.atatus.com/serverless-monitoring/features).
 
-![exceptions-cover](https://www.atatus.com/images/product/serverless/serverless-header.webp)
+![exceptions-cover](https://www.atatus.com/images/press-screenshots/serverless.png)
 
 
 <br /><br />
