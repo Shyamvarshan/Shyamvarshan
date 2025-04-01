@@ -5,19 +5,11 @@
     <br>Atatus
 </h1>
 
-<p align="center">Atatus is a next-gen observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit <a href="https://www.atatus.com/" target="_blank">https://www.atatus.com/</a> for the full documentation, tutorials, and guide.</p>
-
-<p align="center">
-    <img alt="Downloads" src="https://img.shields.io/docker/pulls/signoz/query-service?label=Docker Downloads"> </a>
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/signoz/signoz"> </a>
-    <a href="https://twitter.com/intent/tweet?text=Monitor%20your%20applications%20and%20troubleshoot%20problems%20with%20SigNoz,%20an%20open-source%20alternative%20to%20DataDog,%20NewRelic.&url=https://signoz.io/&via=SigNozHQ&hashtags=opensource,signoz,observability"> 
-        <img alt="tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"> </a> 
-</p>
-  
+<p align="center">Atatus is a next-gen observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit our website for the full documentation, tutorials, and guide.</p>
   
 <h3 align="center">
   <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a> &bull;
-  <a href="https://x.com/atatusapp"><b>Twitter</b></a>
+  <a href="https://www.atatus.com/"><b>Website</b></a>
 </h3>
 
 ## Features
