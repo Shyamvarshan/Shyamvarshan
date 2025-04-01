@@ -89,5 +89,5 @@ Atatus is a All-in-One Observability Platform. Here are a few reasons why you sh
 
 Need complete control over your observability stack? Atatus offers on-premise deployment, ensuring data security, compliance, and seamless integration within your infrastructure.
 
-Get a personalized demo to see how Atatus can fit your needs. [Contact us]https://www.atatus.com/contact) or [schedule a demo](https://www.atatus.com/request-demo)
+Get a personalized demo to see how Atatus can fit your needs. [Contact us](https://www.atatus.com/contact) or [schedule a demo](https://www.atatus.com/request-demo)
 
