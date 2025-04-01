@@ -8,8 +8,8 @@
 <p align="center">Atatus is a next-gen observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit our website for the full documentation, tutorials, and guide.</p>
   
 <h3 align="center">
-  <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a> &bull;
   <a href="https://www.atatus.com/"><b>Website</b></a>
+  <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a> &bull;
 </h3>
 
 ## Features
@@ -19,7 +19,7 @@
 
 Get full visibility of your application performance in real-time along with in-depth transaction details, slow database queries, poor performing network calls, and more. Atatus helps you in finding root causes and fixing issues faster. [Read more](https://www.atatus.com/application-monitoring/features).
 
-You can [Integrate](https://docs.atatus.com/docs/integration.htm) your application with OpenTelemetry to get started.
+You can [Integrate](https://docs.atatus.com/docs/application-monitoring/overview.html) your application with OpenTelemetry to get started.
 
 ![apm-cover](https://www.atatus.com/images/press-screenshots/apm.png)
 
@@ -28,7 +28,7 @@ You can [Integrate](https://docs.atatus.com/docs/integration.htm) your applicati
 
 Simplify your log monitoring to effortlessly track and analyze events, enabling quick troubleshooting and performance insights. Experience real-time visibility, instant search capabilities, and informed decision-making without the complexities or high costs.
 
-You can also create charts on your logs and monitor them with customized dashboards. Read [more](https://www.atatus.com/logs-monitoring/features).
+You can also create charts on your logs and monitor them with customized dashboards. [Read more](https://www.atatus.com/logs-monitoring/features).
 
 ![logs-management-cover](https://www.atatus.com/images/press-screenshots/logs.png)
 
@@ -37,7 +37,7 @@ You can also create charts on your logs and monitor them with customized dashboa
 
 Actively track query execution times, resource utilization, and transaction throughput for each database call, providing real-time insights into the intricate workings of your database.
 
-Read [more](https://www.atatus.com/database-monitoring/feature).
+[Read more](https://www.atatus.com/database-monitoring/feature).
 
 ![distributed-tracing-cover](https://www.atatus.com/images/press-screenshots/database.png)
 
@@ -47,7 +47,7 @@ Read [more](https://www.atatus.com/database-monitoring/feature).
 
 Gain comprehensive insights into your Kubernetes cluster, highlighting strategies to optimize resource utilization across workloads, leading to improved management and efficiency of your Kubernetes setup.
 
-Read [more](https://www.atatus.com/kubernetes-monitoring/features).
+[Read more](https://www.atatus.com/kubernetes-monitoring/features).
 
 ![Kubernetes Monitoring-cover](https://www.atatus.com/images/press-screenshots/kubernetes.png)
 
@@ -55,7 +55,7 @@ Read [more](https://www.atatus.com/kubernetes-monitoring/features).
 
 Get complete visibility of your infrastructure to diagnose and resolve performance issues that impact your business. Make better business decisions by correlating application metrics, logs and traces to troubleshoot problems faster.
 
-Read [more](https://www.atatus.com/infrastructure-monitoring/features).
+[Read more](https://www.atatus.com/infrastructure-monitoring/features).
 
 ![Infrastructure monitoring-cover](https://www.atatus.com/images/press-screenshots/infra.png)
 
@@ -63,7 +63,7 @@ Read [more](https://www.atatus.com/infrastructure-monitoring/features).
 
 Unlock deep insights and proactive monitoring for your serverless architecture. Enhance application reliability, performance, and security with real-time observability.
 
-Read [more](https://www.atatus.com/serverless-monitoring/features).
+[Read more](https://www.atatus.com/serverless-monitoring/features).
 
 ![exceptions-cover](https://www.atatus.com/images/press-screenshots/serverless.png)
 
