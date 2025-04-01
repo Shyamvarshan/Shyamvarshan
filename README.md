@@ -96,10 +96,9 @@ Atatus is a All-in-One Observability Platform. Here are a few reasons why you sh
 
 ## Getting Started
 
-### Create a Atatus Account
+### Create Atatus Account
 
- Creating a is the easiest way to get started with Atatus. Our service is for those users who want to spend more time in getting insights for their application performance 
- without worrying about maintenance. 
+ Creating a Atatus Account is the easiest way to get started with Atatus. Our service is for those users who want to spend more time in getting insights for their application performance without worrying about maintenance. 
 
 [Get started for free](https://www.atatus.com/signup)
   
