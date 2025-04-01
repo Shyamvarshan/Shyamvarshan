@@ -5,7 +5,7 @@
     <br>Atatus
 </h1>
 
-<p align="center">Atatus is a next-generation observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit <a href="https://www.atatus.com/" target="_blank">https://www.atatus.com/</a> for the full documentation, tutorials, and guide.</p>
+<p align="center">Atatus is a next-gen observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit <a href="https://www.atatus.com/" target="_blank">https://www.atatus.com/</a> for the full documentation, tutorials, and guide.</p>
 
 <p align="center">
     <img alt="Downloads" src="https://img.shields.io/docker/pulls/signoz/query-service?label=Docker Downloads"> </a>
@@ -83,37 +83,25 @@ Read [more](https://www.atatus.com/serverless-monitoring/features).
 
 ## Why Atatus?
 
-SigNoz is a single tool for all your monitoring and observability needs. Here are a few reasons why you should choose SigNoz:
+Atatus is a All-in-One Observability Platform. Here are a few reasons why you should choose Atatus:
 
-- Single tool for observability(logs, metrics, and traces)
+- Converged Observability: Atatus provides a unified platform for logs, metrics, and traces to give you complete visibility across your entire stack.
+  
+- AI-Powered Insights: Leverage advanced AI capabilities for anomaly detection, automated diagnostics, and faster issue resolution.
 
-- Built on top of [OpenTelemetry](https://opentelemetry.io/), the open-source standard which frees you from any type of vendor lock-in
+- 200+ Integrations: Atatus supports seamless integrations with over 200 tools and platforms for easy connectivity across your infrastructure.
 
-- Correlated logs, metrics and traces for much richer context while debugging
-
-- Uses ClickHouse (used by likes of Uber & Cloudflare) as datastore - an extremely fast and highly optimized storage for observability data
-
-- DIY Query builder, PromQL, and ClickHouse queries to fulfill all your use-cases around querying observability data
-
-- Open-Source - you can use open-source, our [cloud service](https://signoz.io/teams/) or a mix of both based on your use case
-
+- Developer-Friendly: With built-in query builders and APIs, Atatus provides custom querying and integration options for every use case.
+  
+- Cost-Efficient Scalability: Reduce telemetry and storage costs while maintaining high performance with flexible data retention policies.
 
 ## Getting Started
 
-### Create a SigNoz Cloud Account
+### Create a Atatus Account
 
 SigNoz cloud is the easiest way to get started with SigNoz. Our cloud service is for those users who want to spend more time in getting insights for their application performance without worrying about maintenance. 
 
-[Get started for free](https://signoz.io/teams/)
-
-### Deploy using Docker(self-hosted)
-
-Please follow the steps listed [here](https://signoz.io/docs/install/docker/) to install using docker
-
-The [troubleshooting instructions](https://signoz.io/docs/install/troubleshooting/) may be helpful if you face any issues.
-
-<p>&nbsp  </p>
-  
+[Get started for free](https://www.atatus.com/signup)
   
 ### Deploy in Kubernetes using Helm(self-hosted)
 
@@ -121,11 +109,5 @@ Please follow the steps listed [here](https://signoz.io/docs/deployment/helm_cha
 
 <br /><br />
 
-We also offer managed services in your infra. Check our [pricing plans](https://signoz.io/pricing/) for all details.
+We also offer managed services in your infra. Check our [pricing plans](https://www.atatus.com/pricing) for all details.
 
-
-## Join our Slack community
-
-Come say Hi to us on [Slack](https://signoz.io/slack) 👋
-
-<br /><br />
