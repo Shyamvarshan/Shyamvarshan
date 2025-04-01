@@ -27,9 +27,9 @@
 
 Get full visibility of your application performance in real-time along with in-depth transaction details, slow database queries, poor performing network calls, and more. Atatus helps you in finding root causes and fixing issues faster. Read [more](https://www.atatus.com/application-monitoring/features).
 
-You can [Integrate](https://docs.atatus.com/docs/integration.html) your application with OpenTelemetry to get started.
+You can [Integrate](https://docs.atatus.com/docs/integration.htm) your application with OpenTelemetry to get started.
 
-![apm-cover](https://www.atatus.com/images/product/apm/pages/apm_dashboard.png)
+![apm-cover](https://www.atatus.com/images/press-screenshots/apm.png)
 
 
 ### Logs Monitoring
