@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">
-    <a href="https://signoz.io" target="_blank">
+    <a href="https://www.atatus.com/" target="_blank">
         <img alt="Atatus" src="https://www.atatus.com/images/logo/atatus-icon.svg" width="100" height="100">
     </a>
     <br>Atatus
