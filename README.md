@@ -35,9 +35,7 @@ You can also create charts on your logs and monitor them with customized dashboa
 
 ### Database Monitoring
 
-Actively track query execution times, resource utilization, and transaction throughput for each database call, providing real-time insights into the intricate workings of your database.
-
-[Read more](https://www.atatus.com/database-monitoring/features).
+Actively track query execution times, resource utilization, and transaction throughput for each database call, providing real-time insights into the intricate workings of your database.[Read more](https://www.atatus.com/database-monitoring/features).
 
 ![distributed-tracing-cover](https://www.atatus.com/images/press-screenshots/database.png)
 
