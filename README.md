@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <a href="https://signoz.io" target="_blank">
-        <img alt="Atatus" src="https://www.atatus.com/images/logo/atatus-logo.svg" width="100" height="100">
+        <img alt="Atatus" src="https://www.atatus.com/images/logo/atatus-icon.svg" width="100" height="100">
     </a>
     <br>Atatus
 </h1>
@@ -25,69 +25,63 @@
 
 ### Application Performance Monitoring
 
-Use SigNoz APM to monitor your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex and operations per second. You can also monitor the database and external calls made from your application. Read [more](https://signoz.io/application-performance-monitoring/).
+Get full visibility of your application performance in real-time along with in-depth transaction details, slow database queries, poor performing network calls, and more. Atatus helps you in finding root causes and fixing issues faster. Read [more](https://www.atatus.com/application-monitoring/features).
 
-You can [instrument](https://signoz.io/docs/instrumentation/) your application with OpenTelemetry to get started.
+You can [Integrate](https://docs.atatus.com/docs/integration.html) your application with OpenTelemetry to get started.
 
-![apm-cover](https://github.com/user-attachments/assets/fa5c0396-0854-4c8b-b972-9b62fd2a70d2)
-
-
-### Logs Management
-
-SigNoz can be used as a centralized log management solution. We use ClickHouse (used by likes of Uber & Cloudflare) as a datastore, ⎯ an extremely fast and highly optimized storage for logs data. Instantly search through all your logs using quick filters and a powerful query builder.
-
-You can also create charts on your logs and monitor them with customized dashboards. Read [more](https://signoz.io/log-management/).
-
-![logs-management-cover](https://github.com/user-attachments/assets/343588ee-98fb-4310-b3d2-c5bacf9c7384)
+![apm-cover](https://www.atatus.com/images/product/apm/pages/apm_dashboard.png)
 
 
-### Distributed Tracing
+### Logs Monitoring
 
-Distributed Tracing is essential to troubleshoot issues in microservices applications. Powered by OpenTelemetry, distributed tracing in SigNoz can help you track user requests across services to help you identify performance bottlenecks. 
+Simplify your log monitoring to effortlessly track and analyze events, enabling quick troubleshooting and performance insights. Experience real-time visibility, instant search capabilities, and informed decision-making without the complexities or high costs.
 
-See user requests in a detailed breakdown with the help of Flamegraphs and Gantt Charts. Click on any span to see the entire trace represented beautifully, which will help you make sense of where issues actually occurred in the flow of requests.
+You can also create charts on your logs and monitor them with customized dashboards. Read [more](https://www.atatus.com/logs-monitoring/features).
 
-Read [more](https://signoz.io/distributed-tracing/).
+![logs-management-cover](https://www.atatus.com/images/product/logs/pages/logs_monitoring.webp)
 
-![distributed-tracing-cover](https://github.com/user-attachments/assets/9bfe060a-0c40-4922-9b55-8a97e1a4076c)
+
+### Database Monitoring
+
+Actively track query execution times, resource utilization, and transaction throughput for each database call, providing real-time insights into the intricate workings of your database.
+
+Read [more](https://www.atatus.com/database-monitoring/feature).
+
+![distributed-tracing-cover](https://www.atatus.com/images/product/database/pages/database-header.webp)
 
 
 
-### Metrics and Dashboards
+### Metrics
 
-Ingest metrics from your infrastructure or applications and create customized dashboards to monitor them. Create visualization that suits your needs with a variety of panel types like pie chart, time-series, bar chart, etc.
+Unlock complete visibility into your system's health with real-time metrics, proactive alerts, and actionable insights—empowering your team to stay ahead of performance issues and drive optimal efficiency.
 
-Create queries on your metrics data quickly with an easy-to-use metrics query builder. Add multiple queries and combine those queries with formulae to create really complex queries quickly.
+Read [more](http://atatus.com/metrics/features).
 
-Read [more](https://signoz.io/metrics-and-dashboards/).
-
-![metrics-n-dashboards-cover](https://github.com/user-attachments/assets/a536fd71-1d2c-4681-aa7e-516d754c47a5)
+![metrics-n-dashboards-cover](https://www.atatus.com/images/product/metrics/metrics-header.webp)
 
 ### Alerts
 
 Use alerts in SigNoz to get notified when anything unusual happens in your application. You can set alerts on any type of telemetry signal (logs, metrics, traces), create thresholds and set up a notification channel to get notified. Advanced features like alert history and anomaly detection can help you create smarter alerts.
 
-Alerts in SigNoz help you identify issues proactively so that you can address them before they reach your customers.
+Alerts in Atatus help you identify issues proactively so that you can address them before they reach your customers.
 
-Read [more](https://signoz.io/alerts-management/).
+Read [more](https://www.atatus.com/integrations).
 
-![alerts-cover](https://github.com/user-attachments/assets/03873bb8-1b62-4adf-8f56-28bb7b1750ea)
+![alerts-cover](https://www.atatus.com/images/integrations/integrations-hero.svg)
 
-### Exceptions Monitoring
+### Serverless Monitoring
 
-Monitor exceptions automatically in Python, Java, Ruby, and Javascript. For other languages, just drop in a few lines of code and start monitoring exceptions.
+Unlock deep insights and proactive monitoring for your serverless architecture. Enhance application reliability, performance, and security with real-time observability.
 
-See the detailed stack trace for all exceptions caught in your application. You can also log in custom attributes to add more context to your exceptions. For example, you can add attributes to identify users for which exceptions occurred.
-
-Read [more](https://signoz.io/exceptions-monitoring/).
+Read [more](https://www.atatus.com/serverless-monitoring/features).
 
 
-![exceptions-cover](https://github.com/user-attachments/assets/4be37864-59f2-4e8a-8d6e-e29ad04298c5)
+![exceptions-cover](https://www.atatus.com/images/product/serverless/serverless-header.webp)
 
 
 <br /><br />
 
-## Why SigNoz?
+## Why Atatus?
 
 SigNoz is a single tool for all your monitoring and observability needs. Here are a few reasons why you should choose SigNoz:
 
