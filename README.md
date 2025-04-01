@@ -106,7 +106,5 @@ Atatus is a All-in-One Observability Platform. Here are a few reasons why you sh
 
 Please follow the steps listed [here](https://docs.atatus.com/docs/kubernetes-monitoring/installation/helm-chart.html) to install using helm charts
 
-<br /><br />
-
 We also offer managed services in your infra. Check our [pricing plans](https://www.atatus.com/pricing) for all details.
 
