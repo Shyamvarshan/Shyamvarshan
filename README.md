@@ -1,11 +1,11 @@
 <h1 align="center" style="border-bottom: none">
     <a href="https://signoz.io" target="_blank">
-        <img alt="SigNoz" src="https://github.com/user-attachments/assets/ef9a33f7-12d7-4c94-8908-0a02b22f0c18" width="100" height="100">
+        <img alt="Atatus" src="https://www.atatus.com/images/logo/atatus-logo.svg" width="100" height="100">
     </a>
-    <br>SigNoz
+    <br>Atatus
 </h1>
 
-<p align="center">All your logs, metrics, and traces in one place. Monitor your application, spot issues before they occur and troubleshoot downtime quickly with rich context. SigNoz is a cost-effective open-source alternative to Datadog and New Relic. Visit <a href="https://signoz.io" target="_blank">signoz.io</a> for the full documentation, tutorials, and guide.</p>
+<p align="center">Atatus is a next-generation observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit <a href="https://www.atatus.com/" target="_blank">https://www.atatus.com/</a> for the full documentation, tutorials, and guide.</p>
 
 <p align="center">
     <img alt="Downloads" src="https://img.shields.io/docker/pulls/signoz/query-service?label=Docker Downloads"> </a>
@@ -16,12 +16,8 @@
   
   
 <h3 align="center">
-  <a href="https://signoz.io/docs"><b>Documentation</b></a> &bull;
-  <a href="https://github.com/SigNoz/signoz/blob/develop/README.zh-cn.md"><b>ReadMe in Chinese</b></a> &bull;
-  <a href="https://github.com/SigNoz/signoz/blob/develop/README.de-de.md"><b>ReadMe in German</b></a> &bull;
-  <a href="https://github.com/SigNoz/signoz/blob/develop/README.pt-br.md"><b>ReadMe in Portuguese</b></a> &bull;
-  <a href="https://signoz.io/slack"><b>Slack Community</b></a> &bull;
-  <a href="https://twitter.com/SigNozHq"><b>Twitter</b></a>
+  <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a> &bull;
+  <a href="https://x.com/atatusapp"><b>Twitter</b></a>
 </h3>
 
 ## Features
