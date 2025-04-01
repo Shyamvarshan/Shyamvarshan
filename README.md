@@ -75,7 +75,6 @@ Unlock deep insights and proactive monitoring for your serverless architecture. 
 
 Read [more](https://www.atatus.com/serverless-monitoring/features).
 
-
 ![exceptions-cover](https://www.atatus.com/images/product/serverless/serverless-header.webp)
 
 
@@ -99,13 +98,14 @@ Atatus is a All-in-One Observability Platform. Here are a few reasons why you sh
 
 ### Create a Atatus Account
 
-SigNoz cloud is the easiest way to get started with SigNoz. Our cloud service is for those users who want to spend more time in getting insights for their application performance without worrying about maintenance. 
+ Creating a is the easiest way to get started with Atatus. Our service is for those users who want to spend more time in getting insights for their application performance 
+ without worrying about maintenance. 
 
 [Get started for free](https://www.atatus.com/signup)
   
 ### Deploy in Kubernetes using Helm(self-hosted)
 
-Please follow the steps listed [here](https://signoz.io/docs/deployment/helm_chart) to install using helm charts
+Please follow the steps listed [here](https://docs.atatus.com/docs/kubernetes-monitoring/installation/helm-chart.html) to install using helm charts
 
 <br /><br />
 
