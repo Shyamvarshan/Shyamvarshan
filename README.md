@@ -1,92 +1,31 @@
-<h1 align="center" style="border-bottom: none">
-    <a href="https://www.atatus.com/" target="_blank">
-        <img alt="Atatus" src="https://www.atatus.com/images/logo/atatus-icon.svg" width="100" height="100">
-    </a>
-    <br>Atatus
-</h1>
+# About Me:
+Hi there! I’m a final-year B.Tech Computer Science student at VIT University, passionate about building impactful digital experiences.
 
-<p align="center">Atatus is a next-gen observability platform designed to empower modern software teams with real-time, full-stack monitoring. Our solution seamlessly integrates application performance monitoring (APM), infrastructure monitoring, and user experience monitoring into one intuitive interface—making it easier than ever to detect, diagnose, and resolve issues before they impact your users. Visit our website for the full documentation, tutorials, and guide.</p>
-  
-<h3 align="center">
-  <a href="https://www.atatus.com/"><b>Website</b></a> &bull;
-  <a href="https://docs.atatus.com/docs/"><b>Documentation</b></a>
-</h3>
+I specialize in full-stack web development, digital marketing, and UI/UX design. I love turning ideas into elegant, user-centric solutions — whether it’s a sleek website or a powerful web app.
 
-## Features
+Currently:
+
+Building "Chat with Your PDFs", an AI project enabling users to interact with PDF documents using natural language.
+
+Growing Digi Byte, my startup focused on web development & digital marketing.
+
+Working as a Digital Marketing Intern at Namlabs, contributing to their observability platform, Atatus.
 
 
-### Application Performance Monitoring
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ shyam-varshan-46816924b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyambtm31@gmail.com) 
 
-Get full visibility of your application performance in real-time along with in-depth transaction details, slow database queries, poor performing network calls, and more. Atatus helps you in finding root causes and fixing issues faster. [Read more](https://www.atatus.com/application-monitoring/features).
+# Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shyamvarshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shyamvarshan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamvarshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-You can [Integrate](https://docs.atatus.com/docs/application-monitoring/overview.html) your application with OpenTelemetry to get started.
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![apm-cover](https://www.atatus.com/images/press-screenshots/apm.png)
+---
+[![](https://visitcount.itsvg.in/api?id=Shyamvarshan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-### Logs Monitoring
-
-Simplify your log monitoring to effortlessly track and analyze events, enabling quick troubleshooting and performance insights. Experience real-time visibility, instant search capabilities, and informed decision-making without the complexities or high costs.
-
-You can also create charts on your logs and monitor them with customized dashboards. [Read more](https://www.atatus.com/logs-monitoring/features).
-
-![logs-management-cover](https://www.atatus.com/images/press-screenshots/logs.png)
-
-
-### Database Monitoring
-
-Actively track query execution times, resource utilization, and transaction throughput for each database call, providing real-time insights into the intricate workings of your database.[Read more](https://www.atatus.com/database-monitoring/features).
-
-![distributed-tracing-cover](https://www.atatus.com/images/press-screenshots/database.png)
-
-
-
-### Kubernetes Monitoring
-
-Gain comprehensive insights into your Kubernetes cluster, highlighting strategies to optimize resource utilization across workloads, leading to improved management and efficiency of your Kubernetes setup.[Read more](https://www.atatus.com/kubernetes-monitoring/features).
-
-![Kubernetes Monitoring-cover](https://www.atatus.com/images/press-screenshots/kubernetes.png)
-
-### Infrastructure monitoring
-
-Get complete visibility of your infrastructure to diagnose and resolve performance issues that impact your business. Make better business decisions by correlating application metrics, logs and traces to troubleshoot problems faster.[Read more](https://www.atatus.com/infrastructure-monitoring/features).
-
-![Infrastructure monitoring-cover](https://www.atatus.com/images/press-screenshots/infra.png)
-
-### Serverless Monitoring
-
-Unlock deep insights and proactive monitoring for your serverless architecture. Enhance application reliability, performance, and security with real-time observability.
-[Read more](https://www.atatus.com/serverless-monitoring/features).
-
-![exceptions-cover](https://www.atatus.com/images/press-screenshots/serverless.png)
-
-
-<br /><br />
-
-## Why Atatus?
-
-Atatus is a All-in-One Observability Platform. Here are a few reasons why you should choose Atatus:
-
-- Converged Observability: Atatus provides a unified platform for logs, metrics, and traces to give you complete visibility across your entire stack.
-  
-- AI-Powered Insights: Leverage advanced AI capabilities for anomaly detection, automated diagnostics, and faster issue resolution.
-
-- 200+ Integrations: Atatus supports seamless integrations with over 200 tools and platforms for easy connectivity across your infrastructure.
-
-- Developer-Friendly: With built-in query builders and APIs, Atatus provides custom querying and integration options for every use case.
-  
-- Cost-Efficient Scalability: Reduce telemetry and storage costs while maintaining high performance with flexible data retention policies.
-
-## Getting Started
-
-### Create Atatus Account
-
- Creating a Atatus Account is the easiest way to get started with Atatus. Our service is for those users who want to spend more time in getting insights for their application performance without worrying about maintenance. 
-
-[Get started for free](https://www.atatus.com/signup)
-  
-### On-Premise Deployment & Contact Us
-
-Need complete control over your observability stack? Atatus offers on-premise deployment, ensuring data security, compliance, and seamless integration within your infrastructure.
-
-[Contact us](https://www.atatus.com/contact) to get a personalized demo and see how Atatus fits your needs.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
